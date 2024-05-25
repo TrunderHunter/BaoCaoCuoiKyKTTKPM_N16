@@ -1,0 +1,11 @@
+# Tệp .env
+/.env
+
+# Tệp log
+*.log
+
+# Thư mục node_modules
+/node_modules
+
+# Thư mục .vscode
+/.vscode
